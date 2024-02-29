@@ -1,0 +1,4 @@
+com\maharjan\amit\model\dao\UserDAO.class
+com\maharjan\amit\model\dao\impl\UserDAOImpl.class
+com\maharjan\amit\model\User.class
+com\maharjan\amit\model\ModelModule.class

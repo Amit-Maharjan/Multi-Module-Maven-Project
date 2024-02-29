@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Model-Module" />
+        <module name="App-Core-Module" />
+        <module name="DB-Core-Module" />
+        <module name="Chat-Server-Module" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="App-Core-Module" target="1.8" />
+      <module name="Chat-Server-Module" target="1.8" />
+      <module name="DB-Core-Module" target="1.8" />
+      <module name="Model-Module" target="1.8" />
+      <module name="Multi-Module-Maven-Project" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
